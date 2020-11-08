@@ -7,6 +7,6 @@ print(round(4.99)) # 5
 
 from math import *
 
-print(floor(4.99)) # ³»¸², 4
-print(ceil(3.14)) # ¿Ã¸², 4
-print(sqrt(16)) # Á¦°ö±Ù, 4
+print(floor(4.99)) # ë‚´ë¦¼, 4
+print(ceil(3.14)) # ì˜¬ë¦¼, 4
+print(sqrt(16)) # ì œê³±ê·¼, 4
